@@ -1,0 +1,35 @@
+body {
+    background-color: #060102;
+    background-image: linear-gradient(#8A1029, #060102 40%);
+    color: white;
+  }
+  
+  .title-background {
+    background-color: transparent;
+  }
+  
+  .song-name {
+    font-size: 0.9rem;
+  }
+  
+  .song-artists {
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.4);
+  }
+  
+  
+  .row:hover {
+    background-color: #383838;
+  }
+  
+  .search{
+    background-color: rgb(116, 112, 112);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 50%;
+    box-shadow: 2px 2px #5e5d5d36;
+  }
+  
+  
+  
